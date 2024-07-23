@@ -1,0 +1,8 @@
+prefix=/home/junhakim/catkin_ws/src/Mapless_Moving_ros/build/devel
+
+Name: mapless_moving
+Description: Description of mapless_moving
+Version: 0.0.0
+Cflags: -I/usr/include/eigen3
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/junhakim/catkin_ws/src/Mapless_Moving_ros/build/devel/setup.sh
