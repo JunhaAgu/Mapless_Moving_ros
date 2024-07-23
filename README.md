@@ -73,7 +73,7 @@ Clone the repository and catkin build
 ```
     cd ~/catkin_ws/src
     git clone https://github.com/JunhaAgu/Mapless_Moving.git
-    catkin build mapless_moving_ros
+    catkin build mapless_moving
     source ~/catkin_ws/devel/setup.bash
 ```
 
